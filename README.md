@@ -38,7 +38,7 @@ hobbies: ["Reading", "Cinema", "Workout", "Playing Soccer"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="nextjs" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
 </p>
@@ -47,8 +47,6 @@ hobbies: ["Reading", "Cinema", "Workout", "Playing Soccer"]
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
- -->
 <a href="https://github.com/thepiyushmalhotra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=byjgpark&theme=transparent&show_icons=true&title_color=FFFFFF&text_color=FFFFFF" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byjgpark&theme=transparent&layout=compact&title_color=FFFFFF&text_color=FFFFFF" />
