@@ -4,7 +4,7 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Jungi Park
+name: Jungi(Jun) Park
 located_in: South Korea
 education:
   [
