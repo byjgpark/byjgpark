@@ -46,12 +46,13 @@ hobbies: ["Reading", "Cinema", "Workout", "Playing Soccer"]
 ---
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
-<!-- <a href="https://github.com/thepiyushmalhotra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=byjgpark&theme=transparent&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byjgpark&theme=transparent&layout=compact" />
-</a> -->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+ -->
+<a href="https://github.com/thepiyushmalhotra">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=byjgpark&theme=transparent&show_icons=true&title_color=FFFFFF&text_color=FFFFFF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byjgpark&theme=transparent&layout=compact&title_color=FFFFFF&text_color=FFFFFF" />
+</a>
 
 
 
